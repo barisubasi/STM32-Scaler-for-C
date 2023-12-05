@@ -23,7 +23,6 @@ Usage: Compile and run the program. The calculated ARR and PSC values, along
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <windows.h>  // Note: This header may be unnecessary for non-Windows systems
 #include <math.h>
 
 #define TIM_BASE_CLOCK 84000000   // Your base clock max frequency
